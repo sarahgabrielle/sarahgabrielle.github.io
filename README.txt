@@ -2,7 +2,8 @@ Credits:
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
-    Devicons (konpa.github.io/devicon/)
+    		Devicons (konpa.github.io/devicon/)
+		Favicon (https://realfavicongenerator.net/)
 
 	Other:
 		jQuery (jquery.com)
